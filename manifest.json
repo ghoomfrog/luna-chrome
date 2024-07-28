@@ -5,7 +5,7 @@
 	"manifest_version": 3,
 	"theme": {
 		"images": {
-			"theme_tab_background": "images\/theme_tab_background.png"
+			"theme_tab_background": "images/theme_tab_background.png"
 		},
 		"colors": {
 			"frame": [35, 92, 219],
