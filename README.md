@@ -4,7 +4,7 @@
 
 ### Second, how to install:
 
-- Head to the release:<br>![](./releases.png)
+- Head to the releases:<br>![](./releases.png)
 - Download the ZIP file:<br>![](./zip.png)
 - Go to the Extensions page in Chrome (chrome://extensions).
 - Enable Developer Mode:<br>![](./developer_mode.png)
