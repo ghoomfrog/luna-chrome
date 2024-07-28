@@ -8,5 +8,5 @@
 - Download luna.zip:<br>![](./zip.png)
 - Go to the Extensions page in Chrome (chrome://extensions).
 - Enable Developer Mode:<br>![](./developer_mode.png)
-- Drag the ZIP file and drop it onto the Extensions page.
+- Drag and drop luna.zip onto the Extensions page.
 - Voila! The theme will have been applied.
