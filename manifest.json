@@ -1,0 +1,21 @@
+{
+	"name": "Luna",
+	"version": "1.0",
+	"description": "The classic, classic Windows XP theme",
+	"manifest_version": 3,
+	"theme": {
+		"images": {
+			"theme_tab_background": "images\/theme_tab_background.png"
+		},
+		"colors": {
+			"frame": [35, 92, 219],
+			"frame_inactive": [123, 151, 224],
+			"tab_text": [0, 0, 0],
+			"tab_background_text": [0, 0, 0],
+			"toolbar": [239, 235, 222],
+			"bookmark_text": [0, 0, 0],
+			"ntp_background": [239, 235, 222],
+			"ntp_text": [0, 0, 0]
+		}
+	}
+}
