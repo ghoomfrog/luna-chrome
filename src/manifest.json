@@ -1,7 +1,7 @@
 {
 	"name": "Luna",
 	"version": "1.0",
-	"description": "The classic, classic Windows XP theme",
+	"description": "The classic Windows XP theme",
 	"manifest_version": 3,
 	"theme": {
 		"images": {
